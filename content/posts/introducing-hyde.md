@@ -1,7 +1,11 @@
 ---
 layout: post
 title: Introducing Hyde
-date: 2013-12-28 00:00:00 +0000
+date: 2013-12-28T00:00:00.000+00:00
+menu:
+  main:
+    name: Donate
+    weight: 2
 
 ---
 Hyde is a brazen two-column [hugo](https://gohugo.io) theme based on the [Jekyll](http://jekyllrb.com) theme of the same name.
